@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi ,I'm Divanshi! 👋
 
+🎓 BCA-AI Student | 2nd Year
 
-**Dipu1807/Dipu1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Bachelor of Computer Applications (Artificial Intelligence) student who is interested in technology, programming, and learning new skills.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Currently pursuing BCA-AI (2nd Year).
+- 💻 Interested in web development and programming.
+- 🌱 Currently improving my technical and problem-solving skills.
+- 📚 Always ready to learn new technologies and explore new ideas.
+
+## 🛠️ Technical Skills
+
+- 📊 Microsoft Excel
+- 🌐 HTML
+- 🎨 CSS
+- 🐍 Python (Basic)
+- 🗄️ SQL (Basic)
+
+## 🎯 Goals
+
+- Strengthen my programming fundamentals.
+- Develop projects using HTML and CSS.
+- Improve my Python and SQL skills.
+- Explore Artificial Intelligence and Data Science.
+- Build a strong portfolio through GitHub projects.
+
+## 📂 Projects
+
+I'm working on improving my skills and building projects. Stay tuned for updates!
+
+## 🤝 Connect With Me
+
+Thank you for visiting my profile! 😊
+
+⭐ Feel free to explore my repositories and follow my learning journey.
 
